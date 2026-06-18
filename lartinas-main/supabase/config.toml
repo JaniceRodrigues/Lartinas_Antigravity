@@ -1,0 +1,7 @@
+project_id = "jhgvwmalgjwfepuomlwv"
+
+[functions.admin-users]
+verify_jwt = true
+
+[functions.send-party-contract-email]
+verify_jwt = true
